@@ -9,7 +9,7 @@ body, html {
 /* this is the cover of the website */
   .herobg {
     /* The image used */
-    background-image:linear-gradient(rgba(0, 0, 0, 0.651), rgba(0, 0, 0, 0.651)),  url('/public/images/Untitled-1.png');
+    background-image:linear-gradient(rgba(0, 0, 0, 0.651), rgba(0, 0, 0, 0.651)),  url('Untitled-1.png');
     height: 100%; 
     background-position: center;
     background-repeat: no-repeat;
